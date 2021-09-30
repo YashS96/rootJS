@@ -1,0 +1,2 @@
+# rootJS
+Basic JS concepts 
