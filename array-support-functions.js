@@ -26,7 +26,7 @@ console.log(even)
 console.log(odd)
 
 //reduce() -> taking an array and reducing it to a single value
-// takes an initial value
+// takes an initial value and passes it in each iteration to the callback
 let sum = numbers.reduce((current, item) => {
      current+=item;
      return current;
